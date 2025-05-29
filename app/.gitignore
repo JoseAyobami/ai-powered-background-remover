@@ -1,2 +1,3 @@
 # Ignore secrets
 app/secrets/config.json
+venv/
